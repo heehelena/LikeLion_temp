@@ -1,9 +1,9 @@
 # LikeLion_temp
  
-아마존(www.amazon.com)에서 상품 검색하여 구매자 리뷰 추출
+상품 검색하여 구매자 리뷰 추출
 
 1. 분석 대상
-- 아마존(https://www.amazon.com)에서 상품 검색하여 최상단에 위치한 제품의 구매자 리뷰 추출
+- 아마존(https://www.amazon.com) 에서 상품 검색하여 최상단에 위치한 제품의 구매자 리뷰 추출
 
 2. 분석 항목
 - 사용자(user)
